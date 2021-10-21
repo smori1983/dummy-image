@@ -7,6 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
+    "image-js": "^0.33.0",
     "js-image-generator": "^1.0.3"
   },
   "author": "Shinichiro MORI",
